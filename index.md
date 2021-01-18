@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome 
+This is a repository that highlights my data science portfolio.
 
-You can use the [editor on GitHub](https://github.com/Briggskm9/Briggskm9.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contents
 
-### Markdown
+# Machine Learning
+Image Classification Model - An academic paper about the importance of image classification models within the data science community. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Predicting Individual Tax Returns - Creation of a predictive analysis model, training, testing data from IRS dataset. 
 
-```markdown
-Syntax highlighted code block
+Aurora Borealis Prediction - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
 
-# Header 1
-## Header 2
-### Header 3
+Diagnosis of Acute Inflammation - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
-- Bulleted
-- List
+_Italic_ Tools:  scikit-learn, Pandas, Seaborn, Matplotlib
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Data Analysis and Visualisation
+ - Python
+Sucide Statistics - An indepth look at Suicide Statistics from the World Health Organization in Python.
 
-[Link](url) and ![Image](src)
-```
+Earthquakes - Pulling data from websites, APIs and an earthquake CSV file and analyzing what percentage of the world earthquakes happen in the United States,
+are earthquakes happening more frequently around active volcanic areas and seeing what magnitude and depth does a Tsunami occur when an earthquake happens.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Recalls - Analysis and mining of the most recalled items in 2019 and 2020.  
 
-### Jekyll Themes
+Airline Safety Travel - This project focused on data presentation and visuals for the topic of Airline Safety.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Briggskm9/Briggskm9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ - R
+King Salmon in Decline - Exploratory analysis of the mutliple data sets from data.gov on salmon hatcheries, focusing on investigating the relationship between salmon spieces and their run habits, spawning, and returns. 
 
-### Support or Contact
+_Italic_ Tools: Pandas, Seaborn and Matplotlib
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

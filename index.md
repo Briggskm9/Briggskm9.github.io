@@ -1,3 +1,5 @@
+
+
 # About:
 
 This is a collaboration of data science projects that I have completed or am currently working on. 
@@ -36,3 +38,7 @@ _Tools:  scikit-learn, Pandas, Seaborn, Matplotlib_
 
 _Tools: Pandas, Seaborn and Matplotlib_
 
+# Contact 
+ Via [LinkedIn](https://www.linkedin.com/in/katie-briggs-pmp-a50730167/)
+ Email: kbriggs@my365.bellevue.edu
+ 

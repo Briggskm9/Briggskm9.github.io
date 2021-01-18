@@ -3,35 +3,36 @@
 This is a collaboration of data science projects that I have completed or am currently working on. 
 
 
-# Work:
+# Work Contents:
 
 ### Machine Learning
-Image Classification Model - An academic paper about the importance of image classification models within the data science community. 
 
-Predicting Individual Tax Returns - Creation of a predictive analysis model, training, testing data from IRS dataset. 
+[Image Classification Model](https://github.com/Briggskm9/Image-Classification-Model) - An academic paper about the importance of image classification models within the data science community. 
 
-Aurora Borealis Prediction - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
+[Predicting Individual Tax Returns](https://github.com/Briggskm9/Predicting-Tax-Returns) - Creation of a predictive analysis model, training, testing data from IRS dataset. 
 
-Diagnosis of Acute Inflammation - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
+[Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
+
+Diagnosis of Acute Inflammation - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. (_link coming soon_)
 
 _Tools:  scikit-learn, Pandas, Seaborn, Matplotlib_
 
 
 ### Data Analysis and Visualisation
- - Python
+
+ - **Python**
  
-Sucide Statistics - An indepth look at Suicide Statistics from the World Health Organization in Python.
+[Sucide Statistics](https://github.com/Briggskm9/Suicide-Statistics) - An indepth look at Suicide Statistics from the World Health Organization in Python.
 
-Earthquakes - Pulling data from websites, APIs and an earthquake CSV file and analyzing what percentage of the world earthquakes happen in the United States,
-are earthquakes happening more frequently around active volcanic areas and seeing what magnitude and depth does a Tsunami occur when an earthquake happens.
+[Earthquakes](https://github.com/Briggskm9/Earthquakes) - Pulling data from websites, APIs and an earthquake CSV file and analyzing what percentage of the world earthquakes happen in the United States, are earthquakes happening more frequently around active volcanic areas and seeing what magnitude and depth does a Tsunami occur when an earthquake happens.
 
-Recalls - Analysis and mining of the most recalled items in 2019 and 2020.  
+[Recalls](https://github.com/Briggskm9/Recalls/tree/master/Week%2010) - Analysis and mining of the most recalled items in 2019 and 2020.  
 
-Airline Safety Travel - This project focused on data presentation and visuals for the topic of Airline Safety.
+[Airline Safety Travel](https://github.com/Briggskm9/Airline-Safety/tree/master/Week%209%20and%2010) - This project focused on data presentation and visuals for the topic of Airline Safety.
 
- - R
+ - **R**
  
-King Salmon in Decline - Exploratory analysis of the mutliple data sets from data.gov on salmon hatcheries, focusing on investigating the relationship between salmon spieces and their run habits, spawning, and returns. 
+[King Salmon in Decline](https://github.com/Briggskm9/King-Salmon-Decline) - Exploratory analysis of the mutliple data sets from data.gov on salmon hatcheries, focusing on investigating the relationship between salmon spieces and their run habits, spawning, and returns. 
 
 _Tools: Pandas, Seaborn and Matplotlib_
 

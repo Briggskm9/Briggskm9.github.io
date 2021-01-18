@@ -1,4 +1,4 @@
-# About Me:
+# About:
 
 This is a collaboration of data science projects that I have completed or am currently working on. 
 

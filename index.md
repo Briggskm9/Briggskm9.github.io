@@ -38,7 +38,8 @@ _Tools:  scikit-learn, Pandas, Seaborn, Matplotlib_
 
 _Tools: Pandas, Seaborn and Matplotlib_
 
-# Contact 
+# Contact:
  Via [LinkedIn](https://www.linkedin.com/in/katie-briggs-pmp-a50730167/)
+ 
  Email: kbriggs@my365.bellevue.edu
  

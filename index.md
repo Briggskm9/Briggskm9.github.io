@@ -13,7 +13,7 @@ Aurora Borealis Prediction - Predcitive analysis of nothern lights forecast and 
 
 Diagnosis of Acute Inflammation - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
-_Italic_ Tools:  scikit-learn, Pandas, Seaborn, Matplotlib
+_Tools:  scikit-learn, Pandas, Seaborn, Matplotlib_
 
 
 # Data Analysis and Visualisation
@@ -30,5 +30,5 @@ Airline Safety Travel - This project focused on data presentation and visuals fo
  - R
 King Salmon in Decline - Exploratory analysis of the mutliple data sets from data.gov on salmon hatcheries, focusing on investigating the relationship between salmon spieces and their run habits, spawning, and returns. 
 
-_Italic_ Tools: Pandas, Seaborn and Matplotlib
+_Tools: Pandas, Seaborn and Matplotlib_
 

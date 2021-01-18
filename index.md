@@ -1,3 +1,4 @@
+![Katie Briggs](https://avatars3.githubusercontent.com/u/58196427?s=400&u=52a69222a3f28e29291fe14e45c03cd1c7e6a369&v=4)
 
 
 # About:

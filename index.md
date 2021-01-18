@@ -13,7 +13,7 @@ This is a collaboration of data science projects that I have completed or am cur
 
 [Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
 
-Diagnosis of Acute Inflammation - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. (_link coming soon_)
+Diagnosis of Acute Inflammation (_link coming soon_) - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
 _Tools:  scikit-learn, Pandas, Seaborn, Matplotlib_
 

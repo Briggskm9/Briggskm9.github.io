@@ -1,10 +1,10 @@
-## Welcome 
+# Welcome 
 This is a repository that highlights my data science portfolio.
 
 
-### Contents
+# Contents
 
-# Machine Learning
+### Machine Learning
 Image Classification Model - An academic paper about the importance of image classification models within the data science community. 
 
 Predicting Individual Tax Returns - Creation of a predictive analysis model, training, testing data from IRS dataset. 
@@ -16,8 +16,9 @@ Diagnosis of Acute Inflammation - Decision Tree Classifier to determine is diagn
 _Tools:  scikit-learn, Pandas, Seaborn, Matplotlib_
 
 
-# Data Analysis and Visualisation
+### Data Analysis and Visualisation
  - Python
+ 
 Sucide Statistics - An indepth look at Suicide Statistics from the World Health Organization in Python.
 
 Earthquakes - Pulling data from websites, APIs and an earthquake CSV file and analyzing what percentage of the world earthquakes happen in the United States,
@@ -28,6 +29,7 @@ Recalls - Analysis and mining of the most recalled items in 2019 and 2020.
 Airline Safety Travel - This project focused on data presentation and visuals for the topic of Airline Safety.
 
  - R
+ 
 King Salmon in Decline - Exploratory analysis of the mutliple data sets from data.gov on salmon hatcheries, focusing on investigating the relationship between salmon spieces and their run habits, spawning, and returns. 
 
 _Tools: Pandas, Seaborn and Matplotlib_

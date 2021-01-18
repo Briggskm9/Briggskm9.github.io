@@ -1,8 +1,9 @@
-# Welcome 
-This is a repository that highlights my data science portfolio.
+# About Me:
+
+This is a collaboration of data science projects that I have completed or am currently working on. 
 
 
-# Contents
+# Work:
 
 ### Machine Learning
 Image Classification Model - An academic paper about the importance of image classification models within the data science community. 

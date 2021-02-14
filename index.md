@@ -17,7 +17,7 @@ This is a collaboration of data science projects that I have completed or am cur
 
 [Image Classification Model](https://github.com/Briggskm9/Image-Classification-Model) - An academic paper about the importance of image classification models within the data science community.
 
- **At a Glance:**
+ - **At a Glance:**
  
   An APA style paper abstract:
   
@@ -27,12 +27,12 @@ This is a collaboration of data science projects that I have completed or am cur
   
 
 [Predicting Individual Tax Returns](https://github.com/Briggskm9/Predicting-Tax-Returns) - Creation of a predictive analysis model, training, testing data from IRS dataset. 
+Regression was used to predict the libability of taxes.
 
-**At a Glance:**
+- **At a Glance:** 
 
  ![](/images/heatmap.png)
  
-  Regression was used to predict the libability of taxes.
 
 [Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
 

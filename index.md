@@ -1,6 +1,11 @@
 
 
-![](/images/17457382_10212451426348968_1862182588505706918_n.jpg)
+![](/images/17457382_10212451426348968_1862182588505706918_n.jpg),  
+# Introduction: 
+Hi everyone.  I am Katie Briggs and I work as an Information Technology 
+Project Manager, currently living in the Dallas/Ft. Wort Metroplex.  
+I love data and learning, which is why I am seeking a Master's Degree in Data Science.  
+I also enjoy hiking, camping, olympic weightlifting and gardening. 
 
 # About:
 

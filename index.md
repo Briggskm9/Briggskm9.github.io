@@ -30,7 +30,7 @@ This is a collaboration of data science projects that I have completed or am cur
 
 **At a Glance:**
 
- ![](https://github.com/Briggskm9/Briggskm9.github.io/blob/main/images/heatmap.png)
+ ![](/images/heatmap.png)
  
   Regression was used to predict the libability of taxes.
 

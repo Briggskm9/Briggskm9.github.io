@@ -44,5 +44,9 @@ _Tools: Pandas, Seaborn and Matplotlib_
 # Contact:
  Via [LinkedIn](https://www.linkedin.com/in/katie-briggs-pmp-a50730167/)
  
- Email: kbriggs@my365.bellevue.edu
+ Academic Email: kbriggs@my365.bellevue.edu
+ 
+ Email: briggs.katie@gmail.com
+ 
+ [Resume](https://github.com/Briggskm9/Briggskm9.github.io/blob/main/Resume/briggs_res-v2.docx)
  

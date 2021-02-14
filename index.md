@@ -16,7 +16,7 @@ This is a collaboration of data science projects that I have completed or am cur
 
 [Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
 
-[Diagnosis of Acute Inflammation](https://github.com/Briggskm9/DSC-680/tree/main/Project%202) - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
+[Diagnosis of Acute Inflammation](https://github.com/Briggskm9/Projects/tree/main/Project%202) - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
 Finding Bigfoot - (link coming soon) - Predicting the migration of Bigfoot.
 

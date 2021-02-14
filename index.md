@@ -17,18 +17,24 @@ This is a collaboration of data science projects that I have completed or am cur
 
 ### Machine Learning
 
-[Image Classification Model](https://github.com/Briggskm9/Image-Classification-Model) - An academic paper about the importance of image classification models within the data science community. 
- *At a Glance:*
+[Image Classification Model](https://github.com/Briggskm9/Image-Classification-Model) - An academic paper about the importance of image classification models within the data science community.
+
+ **At a Glance:**
+ 
   An APA style paper abstract:
+  
   Image classification has played an important role in everyday uses and the growth of data science. According to the case study featured on Science Direct, Image Classification
   refers to the process of computer vision being able to classify an image to its visual content. The use of algorithms to classify is used in everyday life from experimentation
   to visual tagging on social media.
   
 
 [Predicting Individual Tax Returns](https://github.com/Briggskm9/Predicting-Tax-Returns) - Creation of a predictive analysis model, training, testing data from IRS dataset. 
-*At a Glance:*
- Regression was used to predict the libability of taxes.
+
+**At a Glance:**
+
  ![](https://github.com/Briggskm9/Briggskm9.github.io/blob/main/images/heatmap.png)
+ 
+  Regression was used to predict the libability of taxes.
 
 [Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
 

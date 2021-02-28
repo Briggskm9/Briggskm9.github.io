@@ -2,7 +2,7 @@
 
 # Introduction:
 Hi everyone.  I am Katie Briggs and I work as an Information Technology 
-Project Manager, currently living in the Dallas/Ft. Wort Metroplex.  
+Project Manager, currently living in the Dallas/Ft. Worth Metroplex.  
 I love data and learning, which is why I am seeking a Master's Degree in Data Science.  
 I also enjoy hiking, camping, olympic weightlifting and gardening. 
 

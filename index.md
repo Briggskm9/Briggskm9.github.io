@@ -38,9 +38,9 @@ Regression was used to predict the libability of taxes.
 
 [Diagnosis of Acute Inflammation](https://github.com/Briggskm9/Projects/tree/main/Project%202) - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
-Finding Bigfoot - (link coming soon) - Predicting the migration of Bigfoot.
+[Finding Bigfoot](https://github.com/Briggskm9/Projects/tree/main/Project%203) - Predicting the migration of Bigfoot using leaderCluster algorithm in R.
 
-_Tools:  scikit-learn, Pandas, Seaborn, Matplotlib_
+_Tools:  scikit-learn, Pandas, Seaborn, Matplotlib, leaflet, leaderCluster, ggplot_
 
 
 ### Data Analysis and Visualisation

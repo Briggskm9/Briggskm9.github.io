@@ -36,6 +36,9 @@ Regression was used to predict the libability of taxes.
 
 [Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
 
+![](images/NLRailway.jfif)
+
+
 [Diagnosis of Acute Inflammation](https://github.com/Briggskm9/Projects/tree/main/Project%202) - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
 [Finding Bigfoot](https://github.com/Briggskm9/Projects/tree/main/Project%203) - Predicting the migration of Bigfoot using leaderCluster algorithm in R.

@@ -52,6 +52,7 @@ Regression analysis of nothern lights forecast and recommendation on when to pro
 
 Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
+![](images/bigfoot2.jpg)
 
 [Finding Bigfoot](https://github.com/Briggskm9/Projects/tree/main/Project%203) - Predicting the migration of Bigfoot using leaderCluster algorithm in R.
 

@@ -25,13 +25,14 @@ This is a collaboration of data science projects that I have completed or am cur
   refers to the process of computer vision being able to classify an image to its visual content. The use of algorithms to classify is used in everyday life from experimentation
   to visual tagging on social media.
   
+  
 
 [Predicting Individual Tax Returns](https://github.com/Briggskm9/Predicting-Tax-Returns) - Creation of a predictive analysis model, training, testing data from IRS dataset. 
 Regression was used to predict the libability of taxes.
 
 - **At a Glance:** 
 
- ![](/images/heatmap.png)
+ 
  
 
 [Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 

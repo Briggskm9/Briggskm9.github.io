@@ -44,9 +44,14 @@ Regression was used to predict the libability of taxes.
 
 Regression analysis of nothern lights forecast and recommendation on when to promote travel packages.
 
+![](images/Decision-Trees-2.png)
 
+[Diagnosis of Acute Inflammation](https://github.com/Briggskm9/Projects/tree/main/Project%202)
 
-[Diagnosis of Acute Inflammation](https://github.com/Briggskm9/Projects/tree/main/Project%202) - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
+- **At a Glance:**
+
+Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
+
 
 [Finding Bigfoot](https://github.com/Briggskm9/Projects/tree/main/Project%203) - Predicting the migration of Bigfoot using leaderCluster algorithm in R.
 

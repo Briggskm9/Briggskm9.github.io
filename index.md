@@ -15,46 +15,55 @@ This is a collaboration of data science projects that I have completed or am cur
 
 ### Machine Learning
 
+[Image Classification Model](https://github.com/Briggskm9/Image-Classification-Model) 
+
 ![](images/1_CV81vQUQTq-ko_ER9gvqjg.png)
 
-[Image Classification Model](https://github.com/Briggskm9/Image-Classification-Model) - An academic paper about the importance of image classification models within the data science community.
 
  - **At a Glance:**
-  An APA style paper abstract:
+  An APA style paper abstract: An academic paper about the importance of image classification models within the data science community.
   
   Image classification has played an important role in everyday uses and the growth of data science. According to the case study featured on Science Direct, Image Classification
   refers to the process of computer vision being able to classify an image to its visual content. The use of algorithms to classify is used in everyday life from experimentation
   to visual tagging on social media.
   
   
-![](images/taxes.jpg)
-
 [Predicting Individual Tax Returns](https://github.com/Briggskm9/Predicting-Tax-Returns) 
+   
+![](images/taxes.jpg)
 
 - **At a Glance:** 
 
 Creation of a predictive analysis model, training, testing data from IRS dataset. 
 Regression was used to predict the libability of taxes.
- 
-![](images/alaska-train-aurora-dianne-roberson.jpg) 
+
 
 [Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) 
+ 
+![](images/alaska-train-aurora-dianne-roberson.jpg) 
 
 - **At a Glance:**
 
 Regression analysis of nothern lights forecast and recommendation on when to promote travel packages.
 
-![](images/Decision-Trees-2.png)
 
 [Diagnosis of Acute Inflammation](https://github.com/Briggskm9/Projects/tree/main/Project%202)
+
+![](images/Decision-Trees-2.png)
 
 - **At a Glance:**
 
 Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
+
+[Finding Bigfoot](https://github.com/Briggskm9/Projects/tree/main/Project%203)
+
 ![](images/bigfoot2.jpg)
 
-[Finding Bigfoot](https://github.com/Briggskm9/Projects/tree/main/Project%203) - Predicting the migration of Bigfoot using leaderCluster algorithm in R.
+- **At a Glance:**
+
+Predicting the migration of Bigfoot using leaderCluster algorithm in R.
+
 
 _Tools:  Python and R. 
 Libriaries:  scikit-learn, Pandas, Seaborn, Matplotlib, leaflet, leaderCluster, ggplot_

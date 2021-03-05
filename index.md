@@ -25,7 +25,7 @@ This is a collaboration of data science projects that I have completed or am cur
   to visual tagging on social media.
   
   
-![](images/tax-6355404323_cf97f9c58e_b.jpg)
+![](images/taxes.jpg)
 [Predicting Individual Tax Returns](https://github.com/Briggskm9/Predicting-Tax-Returns) 
 
 - **At a Glance:** 

@@ -36,18 +36,22 @@ This is a collaboration of data science projects that I have completed or am cur
 Creation of a predictive analysis model, training, testing data from IRS dataset. 
 Regression was used to predict the libability of taxes.
  
- 
+![](images/alaska-train-aurora-dianne-roberson.jpg) 
 
-[Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) - Predcitive analysis of nothern lights forecast and recommend when to travel to witness an event. 
+[Aurora Borealis Prediction](https://github.com/Briggskm9/DSC-680/tree/main/Project%201) 
 
-![](images/NLRailway.jfif)
+- **At a Glance:**
+
+Regression analysis of nothern lights forecast and recommendation on when to promote travel packages.
+
 
 
 [Diagnosis of Acute Inflammation](https://github.com/Briggskm9/Projects/tree/main/Project%202) - Decision Tree Classifier to determine is diagnosis is acute nephritis or inflammation of bladder. 
 
 [Finding Bigfoot](https://github.com/Briggskm9/Projects/tree/main/Project%203) - Predicting the migration of Bigfoot using leaderCluster algorithm in R.
 
-_Tools:  scikit-learn, Pandas, Seaborn, Matplotlib, leaflet, leaderCluster, ggplot_
+_Tools:  Python and R. 
+Libriaries:  scikit-learn, Pandas, Seaborn, Matplotlib, leaflet, leaderCluster, ggplot_
 
 
 ### Data Analysis and Visualisation

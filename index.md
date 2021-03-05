@@ -15,6 +15,8 @@ This is a collaboration of data science projects that I have completed or am cur
 
 ### Machine Learning
 
+![](images/1_CV81vQUQTq-ko_ER9gvqjg.png)
+
 [Image Classification Model](https://github.com/Briggskm9/Image-Classification-Model) - An academic paper about the importance of image classification models within the data science community.
 
  - **At a Glance:**
@@ -26,9 +28,11 @@ This is a collaboration of data science projects that I have completed or am cur
   
   
 ![](images/taxes.jpg)
+
 [Predicting Individual Tax Returns](https://github.com/Briggskm9/Predicting-Tax-Returns) 
 
 - **At a Glance:** 
+
 Creation of a predictive analysis model, training, testing data from IRS dataset. 
 Regression was used to predict the libability of taxes.
  
